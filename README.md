@@ -6,9 +6,8 @@ Polymarket prices binary tokens such as “25 bps cut” or “no change.” Tho
 
 **Main result:** the Student-t fit beats the Gaussian on AIC (average AIC −20.18 vs −18.02). Relative to CME Fed Funds futures, the Polymarket-implied rate is more accurate as the FOMC date approaches (e.g. 4.6 bps vs 11.1 bps RMSE in the last 0–3 days).
 
-The full write-up is in [`report/report.md`](report/report.md).
 
-![Polymarket vs CME implied upper bound](report/images/tradfi_vs_poly_upperbound.png)
+![Polymarket vs CME implied upper bound](images/tradfi_vs_poly_upperbound.png)
 
 ## Repository layout
 
